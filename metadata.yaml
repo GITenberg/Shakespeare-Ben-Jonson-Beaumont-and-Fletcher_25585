@@ -1,0 +1,32 @@
+_repo: Shakespeare-Ben-Jonson-Beaumont-and-Fletcher_25585
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+description: ''
+gutenberg_issued: '2008-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fletcher, John, 1579-1625'
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'Beaumont, Francis, 1584-1616'
+- !lcsh 'Jonson, Ben, 1573?-1637'
+- !lcsh 'Shakespeare, William, 1564-1616'
+title: Shakespeare, Ben Jonson, Beaumont and Fletcher
+url: http://www.gutenberg.org/ebooks/25585
