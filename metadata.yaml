@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/95
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25585#Shakespeare-Ben-Jonson-Beaumont-and-Fletcher
 gutenberg_issued: '2008-05-24'
 gutenberg_type: Text
 identifiers:
